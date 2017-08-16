@@ -1,16 +1,3 @@
-.nav{
-  text-align: center;
-}
-
-.navbar-nav .nav-item{
-  float: inherit;
-  display: inline-block;
-}
-
-body {
-    margin: 5;
-}
-
 @media (min-width: 992px) {
   #NPlogo1 {
     display: none;
@@ -22,7 +9,12 @@ body {
     display: none;
   }
 }
-#davey1 {
-    
-    color: green;
+
+body {
+    background: url('../img/cairn.jpg') center center no-repeat fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
 }
