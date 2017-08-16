@@ -1,0 +1,28 @@
+.nav{
+  text-align: center;
+}
+
+.navbar-nav .nav-item{
+  float: inherit;
+  display: inline-block;
+}
+
+body {
+    margin: 5;
+}
+
+@media (min-width: 992px) {
+  #NPlogo1 {
+    display: none;
+  }
+}
+
+@media (max-width: 991px) {
+  #NPlogo {
+    display: none;
+  }
+}
+#davey1 {
+    
+    color: green;
+}
